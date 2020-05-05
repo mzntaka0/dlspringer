@@ -44,3 +44,4 @@ python dl.py
 - [ ] create a command line tool
 - [ ] dockernize
 - [ ] refactorings
+- [ ] multiprocessing
